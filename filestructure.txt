@@ -70,6 +70,8 @@
 |-- next.config.js
 |-- package-lock.json
 |-- package.json
+|-- patches
+    |-- sib-api-v3-typescript+2.2.2.patch
 |-- postcss.config.js
 |-- tailwind.config.ts
 |-- tsconfig.json
