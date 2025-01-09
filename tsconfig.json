@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "esnext", // Changed from es5 for better compatibility with modern JavaScript features
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
     "noEmit": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true, // Ensures compatibility with non-ESM modules
+    "allowSyntheticDefaultImports": true, // Ensures synthetic imports work well
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
