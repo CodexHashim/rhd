@@ -67,7 +67,6 @@
 |-- lib
     |-- utils.ts
 |-- next-env.d.ts
-|-- next.config.js
 |-- package-lock.json
 |-- package.json
 |-- patches
